@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohitch-ro"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Location-Saint%20Louis%2C%20MO-red?style=for-the-badge" alt="Saint Louis, MO">
+  <img src="https://img.shields.io/badge/Location-United%20States%20of%20America-red?style=for-the-badge" alt="United States of America">
   <img src="https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=for-the-badge" alt="4+ Years">
 </p>
 
@@ -39,4 +39,4 @@ Embedded Software Engineer with **4+ years** of experience in embedded software 
 
 ### 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/rohitch-ro
-- 📍 Saint Louis, Missouri, USA
+- 📍 United States of America
